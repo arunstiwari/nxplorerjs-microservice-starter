@@ -84,7 +84,7 @@
     "@types/supertest": "^2.0.4",
     "@types/zen-observable": "^0.5.4",
     "apollo-link": "^1.2.2",
-    "awesome-typescript-loader": "^4.0.1",
+    "awesome-typescript-loader": "^5.1.1",
     "backpack-core": "^0.7.0",
     "concurrently": "^3.5.1",
     "cross-env": "^5.2.0",
